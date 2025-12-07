@@ -12,7 +12,7 @@ This project analyzes real housing transaction data from Dubai and builds a mach
 -Python
 -Pandas
 -Matplotlib
--seaborn
+-Seaborn
 -Scikit-Learn
 **Files Included**
 -dubai_housing_project.ipynb – Main project notebook
